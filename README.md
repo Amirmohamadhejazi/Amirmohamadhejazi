@@ -1,5 +1,5 @@
 Hi there, i'm Amirmohamad Hejazi.
-- I'm a Frontend developer.🧑‍💻
+- I'm a Front-End Developer
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Amirmohamadhejazi&show_icons=true&theme=tokyonight&count_private=true)
