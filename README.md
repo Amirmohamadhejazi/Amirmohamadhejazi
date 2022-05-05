@@ -5,7 +5,6 @@ Hi there, i'm Amirmohamad Hejazi.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Amirmohamadhejazi&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirmohamadhejazi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<body>
     <div style="flex-direction: column ; display: flex ; font-family: monospace">
         <h2>Contact me with the following links</h2>
         <div style="flex-direction: row ; display: flex ; flex-wrap: wrap ; width: 100% ; justify-content: space-between">
@@ -44,5 +43,3 @@ Hi there, i'm Amirmohamad Hejazi.
 
         </div>
     </div> 
-
-</body>
