@@ -7,7 +7,7 @@ Hi there, i'm Amirmohamad Hejazi.
 
 <div style="flex-direction: column ; display: flex ; font-family: monospace">
         <h2>Contact me with the following links</h2>
-        <div style="flex-direction: row ; display: flex ; flex-wrap: wrap ; width: 100% ; justify-content: space-between">
+<!--         <div style="flex-direction: row ; display: flex ; flex-wrap: wrap ; width: 100% ; justify-content: space-between"> -->
            
                 <div style="flex-direction: column ; display: flex ; justify-content: center ; align-items: center">
                     <a href="https://discord.gg/sQEPMGTU6X" target="_blank">
@@ -41,5 +41,5 @@ Hi there, i'm Amirmohamad Hejazi.
                 <span style="margin-top: 5px ; font-size: 15px">Instagram</span>
             </div>
            
-        </div>
+<!--         </div> -->
     </div>
