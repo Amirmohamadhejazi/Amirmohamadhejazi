@@ -5,15 +5,6 @@ Hi there, i'm Amirmohamad Hejazi.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Amirmohamadhejazi&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirmohamadhejazi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-</head>
 <body>
     <div style="flex-direction: column ; display: flex ; font-family: monospace">
         <h2>Contact me with the following links</h2>
@@ -55,4 +46,3 @@ Hi there, i'm Amirmohamad Hejazi.
     </div> 
 
 </body>
-</html>
