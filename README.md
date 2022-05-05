@@ -4,3 +4,4 @@ Hi there, i'm Amirmohamad Hejazi.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Amirmohamadhejazi&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirmohamadhejazi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amirmohamadhejazi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
