@@ -11,7 +11,7 @@ Hi there, i'm Amirmohamad Hejazi.
 <div style="flex-direction: column ; display: flex ; justify-content: center ; align-items: center">
 <a href="https://discord.gg/sQEPMGTU6X" target="_blank">
 <div style="width: 60px ; height: 60px">
-<img src="https://uploads-ssl.webflow.com/5a0c28c1d98b1d000187498f/5c945c3d21f1ed239a16d8de_discord-512.png" alt="Discord" width="100%" height="100%"/>
+<img src="https://uploads-ssl.webflow.com/5a0c28c1d98b1d000187498f/5c945c3d21f1ed239a16d8de_discord-512.png" alt="Discord" width="60px" height="60px"/>
 </div>
 </a>
 <span style="margin-top: 5px ; font-size: 15px">Discord</span>
@@ -19,7 +19,7 @@ Hi there, i'm Amirmohamad Hejazi.
 <div style="flex-direction: column ; display: flex ; justify-content: center ; align-items: center">
 <a href="https://t.me/Amirmohamad_hr" target="_blank">
 <div style="width: 60px ; height: 60px">
-<img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="Telegram" width="100%" height="100%"/>
+<img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="Telegram" width="60px" height="60px"/>
 </div>
 </a>
 <span style="margin-top: 5px ; font-size: 15px">Telegram</span>
@@ -27,7 +27,7 @@ Hi there, i'm Amirmohamad Hejazi.
 <div style="flex-direction: column ; display: flex ; justify-content: center ; align-items: center">
 <a href="https://www.instagram.com/amirmohamad_hr/" target="_blank">
 <div style="width: 60px ; height: 60px">
-<img src="https://www.designbust.com/download/625/png/instagram_logo_transparent512.png" alt="Instagram" width="100%" height="100%"/>
+<img src="https://www.designbust.com/download/625/png/instagram_logo_transparent512.png" alt="Instagram" width="60px" height="60px"/>
 </div>
 </a>
 <span style="margin-top: 5px ; font-size: 15px">Instagram</span>
