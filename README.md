@@ -9,7 +9,7 @@ Hi there, i'm Amirmohamad Hejazi.
 <div style="flex-direction: row ; display: flex ; flex-wrap: wrap ; width: 100% ; justify-content: space-between">
 <div style="flex-direction: column ; display: flex ; justify-content: center ; align-items: center">
   
-<a href="https://discord.gg/sQEPMGTU6X" target="_blank">
+<a href="https://discord.com/users/198928364944359426" target="_blank">
 <img src="https://uploads-ssl.webflow.com/5a0c28c1d98b1d000187498f/5c945c3d21f1ed239a16d8de_discord-512.png" alt="Discord" width="60px" height="60px"/>
 </a>
   
@@ -22,5 +22,8 @@ Hi there, i'm Amirmohamad Hejazi.
 </a>
   
 <h2></h2>
+  <a href="https://github.com/Amirmohamadhejazi" target="_blank">
   <img src="https://raw.githubusercontent.com/Amirmohamadhejazi/Amirmohamadhejazi/8241e0a8cb152e3f1188604f555bfb2047f1b7e6/github-contribution-grid-snake.svg" alt="sneke">
+  </a>
+
 
