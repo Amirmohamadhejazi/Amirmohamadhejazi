@@ -18,4 +18,3 @@ Hi there, i'm Amirmohamad Hejazi.
 
 <!-- <a href="https://dsc.gg/astraadev" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
    -->
-  <a href="https://dsc.gg/astraadev" target="_blank"><img src="https://github.com/Amirmohamadhejazi/Amirmohamadhejazi/blob/output/github-contribution-grid-snake.gif" alt="sneke"></a>
