@@ -15,20 +15,5 @@ Hi there, i'm Amirmohamad Hejazi.
 </a>
 <span style="margin-top: 5px ; font-size: 15px">Discord</span>
 </div>
-<div style="flex-direction: column ; display: flex ; justify-content: center ; align-items: center">
-<a href="https://t.me/Amirmohamad_hr" target="_blank">
-<div style="width: 60px ; height: 60px">
-<img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="Telegram" width="60px" height="60px"/>
-</div>
-</a>
-<span style="margin-top: 5px ; font-size: 15px">Telegram</span>
-</div>
-<div style="flex-direction: column ; display: flex ; justify-content: center ; align-items: center">
-<a href="https://www.instagram.com/amirmohamad_hr/" target="_blank">
-<div style="width: 60px ; height: 60px">
-<img src="https://www.designbust.com/download/625/png/instagram_logo_transparent512.png" alt="Instagram" width="60px" height="60px"/>
-</div>
-</a>
-<span style="margin-top: 5px ; font-size: 15px">Instagram</span>
-</div>
-</div>
+
+<a href="https://dsc.gg/astraadev" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
