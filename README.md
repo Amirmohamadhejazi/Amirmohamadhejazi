@@ -21,12 +21,7 @@ Hi there, i'm Amirmohamad Hejazi.
 <a href="https://t.me/Amirmohamad_hr" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" alt="Discord" width="60px" height="60px"/>
 </a>
-  
-<h2></h2>
-  <a href="https://github.com/Amirmohamadhejazi" target="_blank">
-  <img src="https://raw.githubusercontent.com/Amirmohamadhejazi/Amirmohamadhejazi/8241e0a8cb152e3f1188604f555bfb2047f1b7e6/github-contribution-grid-snake.svg" alt="sneke">
 
-  
   <h2></h2>
   <a href="https://github.com/Amirmohamadhejazi" target="_blank">
   <img src="https://raw.githubusercontent.com/Amirmohamadhejazi/Amirmohamadhejazi/510415eec284b2f0bd14a8550eaf56ea6e0170a4/github-contribution-grid-snake.svg" alt="sneke">
