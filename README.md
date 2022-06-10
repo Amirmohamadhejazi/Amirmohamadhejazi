@@ -25,5 +25,9 @@ Hi there, i'm Amirmohamad Hejazi.
 <h2></h2>
   <a href="https://github.com/Amirmohamadhejazi" target="_blank">
   <img src="https://raw.githubusercontent.com/Amirmohamadhejazi/Amirmohamadhejazi/8241e0a8cb152e3f1188604f555bfb2047f1b7e6/github-contribution-grid-snake.svg" alt="sneke">
-    <img src="https://github.com/Amirmohamadhejazi/Amirmohamadhejazi/blob/output/github-contribution-grid-snake.gif?raw=true" alt="sneke">
+
+  
+  <h2></h2>
+  <a href="https://github.com/Amirmohamadhejazi" target="_blank">
+  <img src="  https://raw.githubusercontent.com/Amirmohamadhejazi/Amirmohamadhejazi/510415eec284b2f0bd14a8550eaf56ea6e0170a4/github-contribution-grid-snake.svg" alt="sneke">
   </a>
