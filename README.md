@@ -14,6 +14,10 @@ Hi there, i'm Amirmohamad Hejazi.
 <img src="https://uploads-ssl.webflow.com/5a0c28c1d98b1d000187498f/5c945c3d21f1ed239a16d8de_discord-512.png" alt="Discord" width="60px" height="60px"/>
 </a>
   
+<a href="https://discord.gg/r8wEFeQWPx" target="_blank">
+<img src="https://images-ext-1.discordapp.net/external/axwZCkPEaIRSn_sabdnPymnnOkT_7bzvbQjeXY9ra9E/%3Fsize%3D1024/https/cdn.discordapp.com/icons/760482272733298759/a_2bd20bc55b80540b62ae3cf1621c4aae.gif" alt="Discord" width="60px" height="60px"/>
+</a>
+  
 <a href="https://www.instagram.com/amirmohamad_hr/" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Discord" width="60px" height="60px"/>
 </a>
