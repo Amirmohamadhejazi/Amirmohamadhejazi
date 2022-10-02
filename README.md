@@ -6,6 +6,8 @@ Hi there, i'm Amirmohamad Hejazi.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Amirmohamadhejazi&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirmohamadhejazi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=4h86kvn0oq4b2irftxds2c3ob">
+
 <h2>Contact me with the following links</h2>
 <div style="flex-direction: row ; display: flex ; flex-wrap: wrap ; width: 100% ; justify-content: space-between">
 <div style="flex-direction: column ; display: flex ; justify-content: center ; align-items: center">
