@@ -32,5 +32,4 @@ Hi there, i'm Amirmohamad Hejazi.
   <h2></h2>
   <a href="https://github.com/Amirmohamadhejazi" target="_blank">
   <img src="https://github.com/Amirmohamadhejazi/Amirmohamadhejazi/blob/output/github-contribution-grid-snake.svg" alt="sneke">
-      <img src="https://github.com/Amirmohamadhejazi/Amirmohamadhejazi/blob/output/github-contribution-grid-snake.svg" alt="sneke">
   </a>
