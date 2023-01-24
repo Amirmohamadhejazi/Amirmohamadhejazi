@@ -1,5 +1,9 @@
 Hi there, i'm Amirmohamad Hejazi.
-- I'm a Front-End Developer 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web%20Developer&center=true"></a>
+</p>  
+
 
 ![](https://komarev.com/ghpvc/?username=Amirmohamadhejazi&style=flat&color=blueviolet)
 
