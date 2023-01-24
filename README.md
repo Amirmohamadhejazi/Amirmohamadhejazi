@@ -1,16 +1,21 @@
 Hi there, i'm Amirmohamad Hejazi.
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web%20Developer&center=true"></a>
+<p align="left">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Web%20Developer&center=true"></a>
 </p>  
-
 
 ![](https://komarev.com/ghpvc/?username=Amirmohamadhejazi&style=flat&color=blueviolet)
 
   <a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=Amirmohamadhejazi&show_icons=true&theme=dracula&count_private=true" /> &nbsp;&nbsp; <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirmohamadhejazi&theme=dracula&count=10&layout=compact&hide=dart,md,markdown,Rich%20Text%20Format&exclude_repo=pep8ir,vuetest" /></a>
 
 
-<img height="300px" src="https://spotify-recently-played-readme.vercel.app/api?user=3sj5vwqgdthqmrernetdo8lld">
+<p align="left">
+   <a href="#">
+     <img height="300px" src="https://spotify-recently-played-readme.vercel.app/api?user=3sj5vwqgdthqmrernetdo8lld">
+  </a>
+</p>  
+
+
 
 
 <h2>Contact me with the following links</h2>
@@ -34,6 +39,6 @@ Hi there, i'm Amirmohamad Hejazi.
 </a>
 
   <h2></h2>
-  <a href="https://github.com/Amirmohamadhejazi" target="_blank">
+  <a href="#" target="_blank">
   <img src="https://github.com/Amirmohamadhejazi/Amirmohamadhejazi/blob/output/github-contribution-grid-snake.svg" alt="sneke">
   </a>
