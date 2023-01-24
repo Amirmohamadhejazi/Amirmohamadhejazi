@@ -1,7 +1,5 @@
-Hi there, i'm Amirmohamad Hejazi.
-
 <p align="left">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Web%20Developer&center=true"></a>
+    <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=800&lines=I+am+AmirMohammad+hejazi%2C+a+front+end+developer."/></a>
 </p>  
 
 ![](https://komarev.com/ghpvc/?username=Amirmohamadhejazi&style=flat&color=blueviolet)
