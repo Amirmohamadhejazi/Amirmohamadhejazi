@@ -36,8 +36,4 @@
 <a href="https://t.me/Amirmohamad_hr" target="_blank">
 <img height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" alt="Discord" />
 </a>
-
-  <h2></h2>
-  <a href="#" target="_blank">
-  <img src="https://github.com/Amirmohamadhejazi/Amirmohamadhejazi/blob/output/github-contribution-grid-snake.svg" alt="sneke">
-  </a>
+ 
