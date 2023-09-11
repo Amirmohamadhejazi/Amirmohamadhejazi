@@ -5,6 +5,7 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=Amirmohamadhejazi&label=Profile%20Views&color=11&pretty=true)](https://visitcount.itsvg.in) -->
 <!-- ![](https://komarev.com/ghpvc/?username=Amirmohamadhejazi&style=flat&color=blueviolet) -->
 
+
   <a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=Amirmohamadhejazi&show_icons=true&theme=dracula&count_private=true" /> &nbsp;&nbsp; <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirmohamadhejazi&theme=dracula&count=10&layout=compact&hide=dart,md,markdown,Rich%20Text%20Format&exclude_repo=pep8ir,vuetest" /></a>
 
 
