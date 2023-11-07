@@ -15,7 +15,22 @@
   </a>
 </p>  
 
+<h2>My best projects</h2>
 
+ 
+ <li>get GitHub status and profile</li>  
+    <a href="https://github.com/Amirmohamadhejazi/TypeCode" target="_blank" >GitHub Link</a>
+    <br/>
+    <a href="https://type-code-c28pb5kq9-amirmohamadhejazi.vercel.app/github" target="_blank">Live project link</a>
+ 
+
+
+<br/>
+<br/>
+<li>get Telegram proxies</li> 
+<a href="https://github.com/Amirmohamadhejazi/Live-Telegram-Proxy" target="_blank" >GitHub Link</a>
+<br/>
+<a href="https://amirmohamadhejazi.github.io/Live-Telegram-Proxy/" target="_blank">Live project link</a>
 
 
 <h2>Contact me with the following links</h2>
@@ -33,6 +48,7 @@
 <a href="https://www.instagram.com/amirmohamad_hr/" target="_blank">
 <img height="50px" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Discord" />
 </a>
+
 
 <a href="https://t.me/Amirmohamad_hr" target="_blank">
 <img height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" alt="Discord" />
