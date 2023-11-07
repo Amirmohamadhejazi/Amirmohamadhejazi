@@ -18,7 +18,7 @@
 <h2>My best projects</h2>
 
  
- <li>get GitHub status and profile</li>  
+ <li>Get GitHub status and profile</li>  
     <a href="https://github.com/Amirmohamadhejazi/TypeCode" target="_blank" >GitHub Link</a>
     <br/>
     <a href="https://type-code-c28pb5kq9-amirmohamadhejazi.vercel.app/github" target="_blank">Live project link</a>
@@ -27,7 +27,7 @@
 
 <br/>
 <br/>
-<li>get Telegram proxies</li> 
+<li>Get Telegram proxies</li> 
 <a href="https://github.com/Amirmohamadhejazi/Live-Telegram-Proxy" target="_blank" >GitHub Link</a>
 <br/>
 <a href="https://amirmohamadhejazi.github.io/Live-Telegram-Proxy/" target="_blank">Live project link</a>
