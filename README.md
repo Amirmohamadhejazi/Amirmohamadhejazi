@@ -15,7 +15,7 @@
   </a>
 </p>  
 
-<h2>My best projects</h2>
+<h2>My best practice projects</h2>
 
  
  <li>Get GitHub status and profile</li>  
