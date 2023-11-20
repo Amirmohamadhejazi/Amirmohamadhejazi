@@ -21,7 +21,7 @@
  <li>Get GitHub status and profile</li>  
     <a href="https://github.com/Amirmohamadhejazi/TypeCode" target="_blank" >GitHub Link</a>
     <br/>
-    <a href="https://type-code-c28pb5kq9-amirmohamadhejazi.vercel.app/github" target="_blank">Live project link</a>
+    <a href="https://type-code.vercel.app/github" target="_blank">Live project link</a>
  
 
 
