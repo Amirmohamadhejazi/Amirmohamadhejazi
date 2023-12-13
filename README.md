@@ -4,17 +4,27 @@
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Amirmohamadhejazi&label=Profile%20Views&color=11&pretty=true)](https://visitcount.itsvg.in) -->
 <!-- ![](https://komarev.com/ghpvc/?username=Amirmohamadhejazi&style=flat&color=blueviolet) -->
+ 
 
 
   <a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=Amirmohamadhejazi&show_icons=true&theme=dracula&count_private=true" /> &nbsp;&nbsp; <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirmohamadhejazi&theme=dracula&count=10&layout=compact&hide=dart,md,markdown,Rich%20Text%20Format&exclude_repo=pep8ir,vuetest" /></a>
+
+
+  
 <p align="left">
    <a href="#">
      <img height="300px" src="https://spotify-recently-played-readme.vercel.app/api?user=3sj5vwqgdthqmrernetdo8lld">
   </a>
 </p>  
+ <!-- github readme activity graph start -->
+<div align="center">
+    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=amirmohamadhejazi&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
+</div>
 <a href="#">
     <img src="https://readme-jokes.vercel.app/api" height="150px"/> 
 </a>
+
+
 
 <h2>Contact me with the following links</h2>
 <div style="flex-direction: row ; display: flex ; flex-wrap: wrap ; width: 100% ; justify-content: space-between">
@@ -36,4 +46,4 @@
 <a href="https://t.me/Amirmohamad_hr" target="_blank">
 <img height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" alt="Discord" />
 </a>
- 
+
