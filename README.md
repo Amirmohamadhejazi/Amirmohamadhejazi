@@ -13,7 +13,7 @@
   </a>
 </p>  
 <a href="#">
- ![Jokes Card](https://readme-jokes.vercel.app/api)
+    <img src="https://readme-jokes.vercel.app/api" height="150px"/> 
 </a>
 
 <h2>Contact me with the following links</h2>
