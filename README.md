@@ -16,13 +16,14 @@
      <img height="300px" src="https://spotify-recently-played-readme.vercel.app/api?user=3sj5vwqgdthqmrernetdo8lld">
   </a>
 </p>  
+<a href="#">
+    <img src="https://readme-jokes.vercel.app/api" height="150px"/> 
+</a>
  <!-- github readme activity graph start -->
 <div align="center">
     <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=amirmohamadhejazi&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
 </div>
-<a href="#">
-    <img src="https://readme-jokes.vercel.app/api" height="150px"/> 
-</a>
+
 
 
 
