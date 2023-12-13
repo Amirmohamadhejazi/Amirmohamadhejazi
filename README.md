@@ -7,32 +7,14 @@
 
 
   <a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=Amirmohamadhejazi&show_icons=true&theme=dracula&count_private=true" /> &nbsp;&nbsp; <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirmohamadhejazi&theme=dracula&count=10&layout=compact&hide=dart,md,markdown,Rich%20Text%20Format&exclude_repo=pep8ir,vuetest" /></a>
-
-
 <p align="left">
    <a href="#">
      <img height="300px" src="https://spotify-recently-played-readme.vercel.app/api?user=3sj5vwqgdthqmrernetdo8lld">
   </a>
 </p>  
 
-<h2>My best practice projects</h2>
-
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
  
- <li>Get GitHub status and profile</li>  
-    <a href="https://github.com/Amirmohamadhejazi/TypeCode" target="_blank" >GitHub Link</a>
-    <br/>
-    <a href="https://type-code.vercel.app/github" target="_blank">Live project link</a>
- 
-
-
-<br/>
-<br/>
-<li>Get Telegram proxies</li> 
-<a href="https://github.com/Amirmohamadhejazi/Live-Telegram-Proxy" target="_blank" >GitHub Link</a>
-<br/>
-<a href="https://amirmohamadhejazi.github.io/Live-Telegram-Proxy/" target="_blank">Live project link</a>
-
-
 <h2>Contact me with the following links</h2>
 <div style="flex-direction: row ; display: flex ; flex-wrap: wrap ; width: 100% ; justify-content: space-between">
 <div style="flex-direction: column ; display: flex ; justify-content: center ; align-items: center">
