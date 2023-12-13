@@ -12,9 +12,10 @@
      <img height="300px" src="https://spotify-recently-played-readme.vercel.app/api?user=3sj5vwqgdthqmrernetdo8lld">
   </a>
 </p>  
-
+<a href="#">
  ![Jokes Card](https://readme-jokes.vercel.app/api)
- 
+</a>
+
 <h2>Contact me with the following links</h2>
 <div style="flex-direction: row ; display: flex ; flex-wrap: wrap ; width: 100% ; justify-content: space-between">
 <div style="flex-direction: column ; display: flex ; justify-content: center ; align-items: center">
