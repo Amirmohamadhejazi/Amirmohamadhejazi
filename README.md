@@ -48,7 +48,7 @@
  <!-- github readme activity graph start -->
 <div align="center"> 
     <br/>
-        <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=amirmohamadhejazi&theme=synthwave-84&area=true&hide_border=true&hide_title=true">
+        <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=amirmohamadhejazi&theme=synthwave-84&area=true&hide_border=true&hide_title=true&radius=16">
 
 </div>
 
